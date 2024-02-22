@@ -1,4 +1,4 @@
  
-### Basic Python Programming
+### প্রথমে Basic Python Programming জানতে হবে ।
 <br>
 <br>
