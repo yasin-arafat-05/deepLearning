@@ -5,8 +5,8 @@
 
 - Numpy
 - Pandas
-- Mathplotlib
-- seaborn
+- Matplotlib
+- Seaborn
   
 <br> 
 এই লাইব্রেরি গুলোতে অনেক কিছু আছে । সব কিছু A-Z শিখার দরকার নেই । কারণ, ML(Machine Learning) and DL(Deep Learning) এর জন্য
@@ -16,4 +16,4 @@ seaborn এই গুলোর ব্যবহার কমিয়ে দেয় �
 
 `নিচের video টা দেখলেই OKAY!`
 
-()[]
+[Numpy_Pandas_Mathplotlib_Seaborn](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)
